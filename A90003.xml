@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new petition of the papists</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90003</idno>
+            <idno type="STC">Wing N698</idno>
+            <idno type="STC">Thomason E169_7</idno>
+            <idno type="STC">ESTC R8349</idno>
+            <idno type="EEBO-CITATION">99873286</idno>
+            <idno type="PROQUEST">99873286</idno>
+            <idno type="VID">157022</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90003)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157022)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E169[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new petition of the papists</title>
+                  <author>Walwyn, William, 1600-1681, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]Printed in the yeare,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Walwyn. Cf. McMichael and Taft, The writings of William Walwyn, pp.55-6.</note>
+                  <note>A plea for religious tolerance.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious tolerance --  England --  17th century --  Early works to 1800.</term>
+               <term>Liberty of conscience --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157022:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 106 -->
+            <p>A NEW PETITION OF THE PAPISTS.</p>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157022:2"/>
+            <!-- PDF PAGE 107 -->
+            <pb facs="tcp:157022:2"/>
+            <!-- PDF PAGE 107 -->
+            <head>THE HVMBLE PETITION OF THE <hi>AFFLICTED BRETHREN.</hi>
+            </head>
+            <opener>Humbly ſhewing,</opener>
+            <p>THat whereas there are ſo many diffe<g ref="char:EOLhyphen"/>rent Religions now profeſſed in <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> as your Honours well know, and that with griefe no doubt, caſting your eyes upon the great confuſion that thereby ariſeth in the common wealth; every one hoping and expecting that theirs alone ſhall be received and eſtabliſhed by this preſent and power<g ref="char:EOLhyphen"/>full high Court of Parliament and all others to bee caſt forth aboliſhed and proſecuted, which certaine<g ref="char:EOLhyphen"/>ly would cauſe (if it be once Decreed) a farre grea<g ref="char:EOLhyphen"/>ter confuſion and diſcontentment.</p>
+            <p>For the timely prevention of which danger many hold it neceſſarie, and humbly deſire, that you would take it into your deepe conſiderations and profound Judgements, whether it were not more convenient for this State, and more gratefull to the ſubjects to tollerate all profeſſions whatſoever, eve<g ref="char:EOLhyphen"/>ry
+<pb n="2" facs="tcp:157022:3"/>
+               <!-- PDF PAGE 108 -->one being left to uſe his owne conſcience, none to be puniſhed or peſecuted for it.</p>
+            <p>There is no man that profeſſeth a Religion, but is in conſcience perſwaded that to be the beſt wher<g ref="char:EOLhyphen"/>in to ſave his ſoule, &amp; can give no doubt ſome reaſo<g ref="char:cmbAbbrStroke">̄</g>, yea, and alleage ſome authority out of the word of God for it, which is an argument that not his will, but his Judgement is convinced, and therefore holds it unreaſonable, to be forced to follow other mens Judgements and not his owne in a matter of ſo great importance as that of his ſalvation is, which is the onely marke his tender ſoule aymes at in his Religi<g ref="char:EOLhyphen"/>on, and for which hee reades the word daily, and hourely ſucking from thence ſweet and holy Do<g ref="char:EOLhyphen"/>ctrines as Bees doe hony from ſweet flowers in the Spring time.</p>
+            <p>It may be objected that this Tolleration would breede a greater confuſion, but wee which know wee have the Spirit, beleeve the contrary; for the eſtabliſhing of onely one, and ſuppreſſing all others, will breede in all a generall diſcontent, jarring, ray<g ref="char:EOLhyphen"/>ling, libelling, and conſequently muſt needs follow a mighty confuſion, where contrary-wiſe, if all were permitted, all would bee pleaſed all in peace, and their obligation and love would be farre greater to the King and State for ſo great a benefit as the free<g ref="char:EOLhyphen"/>dome of conſcience, which to all men is the moſt gratefull thing in the world, more for the better maintaining of peace with each other, differring in Religion, how eaſie a matter it were conſidering the good natures and ſweet diſpoſitions of our <hi>Engliſh</hi> nation, who willingly would embrace a law en<g ref="char:EOLhyphen"/>acted
+<pb n="3" facs="tcp:157022:3"/>
+               <!-- PDF PAGE 108 -->to that effect that were upon ſome penaltie to be impoſed, ſhould affront or upbraid the other for his Religion. This in divers well governed Countries is permitted, as <hi>Holland Germanie, France,</hi> and <hi>Polonia, &amp;c.</hi> where though their Religion be as oppoſite as Heaven to Hell, yet their concord is ſo great, that they ſay with the Prophet <hi>David, behold how good and pleaſant a thing it is for Brethren to dwell together, Pſal.</hi> 132.</p>
+            <p>If therefore the Browniſts upon ſcruple of their tender conſcience, and grounded upon the word, will ſeparate themſelves, and not go to the Church with Proteſtants, let them alone, give them free leave to exerciſe their Religion where they pleaſe without diſturbance, the place where doth not import, they not daring to adde or diminiſh any thing in the written word.</p>
+            <p>If the Puritants will not uſe the Service Booke, Corner Cap, Surpleſſe, or Altar, nor bow at the name of Jeſus, their pure hearts eſteeming it Ido<g ref="char:EOLhyphen"/>latrie, let them alone, they are great readers of Gods booke, and if they bee in errour, they will ſooner finde it, having liberty of conſcience, then being oppreſſed with the Tyranny of the High Commiſſion Court or other kindes of perſecutions which diſquiet their conſciences and troubles their patience.</p>
+            <p>If the <hi>Socinians</hi> will not ſubſcribe to the 39. Ar<g ref="char:EOLhyphen"/>ticles nor credit more then by Naturall force of their beſt witts they can reach unto, let them alone, they profeſſe that if any man can give them a better reaſon, or confute them by the word, they are rea<g ref="char:EOLhyphen"/>dy
+<pb n="4" facs="tcp:157022:4"/>
+               <!-- PDF PAGE 109 -->every hower to change their opinions, of ſuch ſoft and pliable natures they are.</p>
+            <p>If the <hi>Arminians</hi> will have Biſhops, Altars, Lights, Organs, hold Free-will, merit of good workes, and divers other points with Papiſts, though as yet no ſacrifice with them, upon their Altars, let them alone, let them uſe their ceremo<g ref="char:EOLhyphen"/>nies without ſacrifice, let every ſpirit praiſe the <hi>Lord, Pſal.</hi> 150.</p>
+            <p>If the <hi>Papiſts</hi> will have Altars, Prieſts, Sacrifice and ceremonies, and the Pope for their ſupreame head in Spirituall affaires, ſeeing they affirme ſo confidently they have had theſe Sixteene hundred and odde yeares, let them alone with their preten<g ref="char:EOLhyphen"/>ded preſcription, and let every Religion take what Spirituall head they pleaſe, for ſo they will, whe<g ref="char:EOLhyphen"/>ther wee will or no, but the matter imports not, ſo they obey the King as temporall head, and humbly ſubmit to the State and civill Lawes, and live qui<g ref="char:EOLhyphen"/>etly together.</p>
+            <p>Let the <hi>Adamits</hi> Preach in vaults &amp; caves as naked as their nailes, and ſtarve themſelves with cold, they thinke themſelves as innocent as <hi>Adam</hi> and <hi>Eve</hi> were in their nakedneſſe before their fall, let them therefore alone till ſome innocent <hi>Eve</hi> bee ſo curious as to eate forbidden fruit, and then they will all make themſelves aprons of figge leaves percei<g ref="char:EOLhyphen"/>ving their nakedneſſe.</p>
+            <p>Let the <hi>Family of Love</hi> meete together in their ſweet perfum'd Chambers, giving each other the ſweet kiſſe of peace; great pitty it were it were to hinder their mutuall charity; let them alone:
+<pb n="5" facs="tcp:157022:4"/>
+               <!-- PDF PAGE 109 -->Laſtly the ſame wee deſire for all profeſſors of the Goſpel, <hi>Let every one abound in his owne ſence, Rom.</hi> 14.</p>
+            <p>Now were this freedome permitted, there would not bee ſo many idle ſcandalous pamphlets daily caſt abroad to the great vexation of each other, &amp; trouble to the whole Realme, every one labour<g ref="char:EOLhyphen"/>ing to preferre his owne Religion.</p>
+            <p>A Tolleration therefore would hinder all this ſtrife and diſcontentment, but if oppreſſed with perſecution they will cry out of the word of God, <hi>We will render to Caeſar, the things that are due to Caeſar, and to God that which is due to God, Marke</hi> 12. If Tollerated, more promptly will they obey the King and State, if troubled or moleſted, they will cry, <hi>Wee muſt obey God rather then men, Acts</hi> 5. and ſo remaine diſcontented and afflicted in ſpi<g ref="char:EOLhyphen"/>rit.</p>
+            <p>Neither doth a Tolleration ſeeme diſſonant, but rather concordant with the Doctrine of the moſt learned Proteſtants: Firſt the Primate of <hi>Jreland</hi> Doctor <hi>Vſher,</hi> in a Sermon before King <hi>Iames</hi> at <hi>Wanſted</hi> 1624. admittes all Chriſtians into the Church of what Religion ſoever, good ſoule! hee will have none perſecuted, his tender heart drawes all to Heaven. <hi>Muſcovites, Grecians, Ethio<g ref="char:EOLhyphen"/>pians,</hi> all reformed Churches even from <hi>Conſtant<g ref="char:EOLhyphen"/>inople,</hi> to the <hi>Eaſt Indies,</hi> none! none by him are excluded from Paradiſe, as you may reade in the 10. and 11. page of his aforecited ſermon, his pit<g ref="char:EOLhyphen"/>tifull heart cannot paſſe ſuch a bloody ſentence up<g ref="char:EOLhyphen"/>on ſo many poore ſoules; nay hee will pull in the very
+<pb n="6" facs="tcp:157022:5"/>
+               <!-- PDF PAGE 110 -->Iewes and Papiſts, for the Ethiopians though they baptiſe with us, yet they circumciſe alſo both male and female, and in all other things joyne hands with the Pope, as in the confeſſion of their faith ſent to <hi>Gregory</hi> the 13. is manifeſt, this lear<g ref="char:EOLhyphen"/>ned Doctor being ſo gracious and mercifully pitti<g ref="char:EOLhyphen"/>full, how can wee Imagine that your clemencies will perſecute thoſe in earth which are eſteemed worthy of Heaven. Maſter <hi>Hooker</hi> in his five bookes of <hi>Eccleſiaſticall policy, page</hi> 138. affirmes the Church of Rome to be part of the houſe of God, a limbe of the viſible Church of Chriſt, and <hi>page</hi> 130. he ſaith, we gladly acknowledge them to bee of the family of Ieſus Chriſt: now if the family of the Roman Church bee of the family of Ieſus Chriſt, then I hope you will not deny other pro<g ref="char:EOLhyphen"/>feſſors of the Goſpel to be of the family of Chriſt, if they be of the family of God, others are not of the family of the Divell, no, all ſervants of Chriſt, brethren of Chriſt, all according to Doctor <hi>
+                  <g ref="char:V">Ʋ</g>ſhers</hi> doctrine ſhall bee ſaved: why then ſhould any bee perſecuted, ſhall the ſervants of the ſame family perſecute their fellow ſervants, this muſt needes bee greatly diſpleaſing to the Maſter of the family, let therefore none of the ſervants of the familie bee perſecuted for the love and honour you beare to the Lord and Maſter.</p>
+            <p>Seeing therefore in the opinions of theſe and divers other learned Proteſtant Doctors which you know well, the Papiſts may be ſaved, and as Doctor <hi>Some</hi> ſaith, in his defence againſt Maſter <hi>Penrie. Page</hi> 164. 182. and 176. that it is abſurd
+<pb n="7" facs="tcp:157022:5"/>
+               <!-- PDF PAGE 110 -->to thinke the contrary yee will without queſtion thinke it more abſurd to hold either profeſſors damned, then it followes that it is moſt abſurd to perſecute any whoſe names are written in the book of life, never to bee blotted out, if they perſevere and live the life of the righteous.</p>
+            <p>Let every one therefore follow his owne Reli<g ref="char:EOLhyphen"/>gion ſo hee bee obedient to the State and tempo<g ref="char:EOLhyphen"/>rall lawes certainely, that which is erroneous will in time appeare, and the profeſſors of it will bee aſhamed, it will periſh and wither as a flower, va<g ref="char:EOLhyphen"/>niſh as ſmoake, and paſſe as a ſhadow.</p>
+            <p>The Apoſtles of Chriſt preaching (<hi>Acts.</hi> the 5.) the Iewes hearing theſe things it cut them to the heart, and they conſulted to kill them; but as the ſame Chapter relates <hi>verſe</hi> 34. one of the counſell riſing up, a Phariſee called <hi>Gammaliell,</hi> a Doctor of the Law honorable to the people commanded the men to bee put forth a while, and then he ſaid to them, you men of Iſrael what meane you to your ſelves for before theſe dayes there roſe <hi>Theodus,</hi> ſaying he was ſome body, to whom conſented a number of men, above 400. who was ſlaine, and all that beleived him were diſperfed, and brought to nothing. After this fellow there roſe Iudas of <hi>Galilee,</hi> and drew away the people after him who were diſperſed.</p>
+            <p>And therefore I ſay to you, depart from theſe men, and let them alone, for if this councell or worke be of men, it will be diſſolved, but if it be of God, you are not able to diſſolve them, leaſt per<g ref="char:EOLhyphen"/>haps
+<pb n="8" facs="tcp:157022:6"/>
+               <!-- PDF PAGE 111 -->you bee found to reſiſt God alſo. And they conſented to him, here is a preſident, here is an example even from the Scripture it ſelfe, follow it wee beſeech you, give your conſents, agree, vote it, that every man may have freedome of con<g ref="char:EOLhyphen"/>ſcience, let them alone; you deſire nothing but the truth by this freedome and connivency truth will at laſt appeare, that which is of men will be diſſol<g ref="char:EOLhyphen"/>ved, that which is of God will continue and re<g ref="char:EOLhyphen"/>maine for ever, now many men are wavering what to follow, what to embrace, neither will they bee contented with any thing that ſhall bee eſtabliſhed by Act of Parliament, were it never ſo good, onely freedome will in time cauſe the truth to ſhine upon them.</p>
+            <p>The matter therefore of ſo great importance and conſequence, we proſtrate; leaving to your honours profound and deepe Iudgements, hum<g ref="char:EOLhyphen"/>bly requeſting and imploring againe and againe, that for the quiet of the ſtate, for the comfort of the ſubject, and for the love of truth, you cauſe and proclaime a tolleration, that for Reli<g ref="char:EOLhyphen"/>gion none ſhall bee perſecuted, but every one ſhall freely enjoy his conſcience.</p>
+            <p>This is every mans caſe, this would bring Ioy to all, diſcontent to none; this would breede the hartieſt love, loyalty and affection to our dread Soveraigne, our gratious King, this would cauſe all dutifull and loving reſpects to you, right ho<g ref="char:EOLhyphen"/>norable and noble Peeres of the upper Houſe of Parliament, and no leſſe to the moſt noble Kights,
+<pb n="9" facs="tcp:157022:6"/>
+               <!-- PDF PAGE 111 -->Citizens and Burgeſſes of the Honorable Houſe of Commons, the carefull watchfull, and painefull laborus, and endeavourers in this, behalfe for the good of the Common wealth, and the com<g ref="char:EOLhyphen"/>fort of afflicted ſoules and concſcieces, grant therefore this Petition, and for ever you will eter<g ref="char:EOLhyphen"/>nize your names.</p>
+            <p>And ſo praying to the Lord that hee wiould en<g ref="char:EOLhyphen"/>due your hearts with the ſpirit of true wiſedome and clemency towards your poore ſervants and brethren in the Lord, and grant their humble petition, we ceaeſ.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
